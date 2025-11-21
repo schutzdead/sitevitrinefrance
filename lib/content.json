@@ -1,0 +1,208 @@
+{
+  "page": {
+    "hero": {
+      "badge": "Sites Vitrines Professionnels",
+      "title": "Votre Site Sur-Mesure",
+      "titleHighlight": "800€",
+      "subtitle": "Un site unique, performant et 100% éditable pour votre entreprise. Technologie Next.js, SEO optimisé, et une maquette gratuite pour vous projeter.",
+      "ctaPrimary": "Obtenir ma maquette gratuite",
+      "ctaSecondary": "Découvrir l'offre",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1706700392626-5279fb90ae73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWJzaXRlJTIwZGVzaWduJTIwbGFwdG9wfGVufDF8fHx8MTc2MzY1MTYwOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "alt": "Interface moderne d'un site web professionnel sur ordinateur et mobile"
+      }
+    },
+    "comparison": {
+      "badge": "La Différence",
+      "title": "Template Générique vs Site Sur-Mesure",
+      "subtitle": "Faites glisser le curseur pour voir la différence",
+      "beforeLabel": "Template CMS",
+      "afterLabel": "Site Sur-Mesure",
+      "beforeTitle": "Sites Templates",
+      "beforePoints": [
+        "Design générique et répétitif",
+        "Performances médiocres",
+        "SEO limité et basique",
+        "Identité noyée"
+      ],
+      "afterTitle": "Solution Sur-Mesure",
+      "afterPoints": [
+        "Design unique et personnalisé",
+        "Ultra-rapide avec Next.js",
+        "SEO optimisé en profondeur",
+        "Identité forte et distinctive"
+      ],
+      "beforeImage": {
+        "src": "https://images.unsplash.com/photo-1757310998437-b2e8a7bd2e97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnZW5lcmljJTIwd2Vic2l0ZSUyMHRlbXBsYXRlc3xlbnwxfHx8fDE3NjM2NTE2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "alt": "Exemple de site web générique créé avec un template CMS"
+      },
+      "afterImage": {
+        "src": "https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXN0b20lMjB3ZWIlMjBkZXNpZ258ZW58MXx8fHwxNzYzNjUxNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        "alt": "Site web moderne et unique créé sur-mesure avec Next.js"
+      }
+    },
+    "features": {
+      "badge": "Fonctionnalités Incluses",
+      "title": "Tout ce Dont Votre Entreprise a Besoin",
+      "subtitle": "Une solution complète, clé en main, sans compromis sur la qualité",
+      "items": [
+        {
+          "title": "Technologie Next.js",
+          "description": "Le framework utilisé par Netflix, Uber et Nike. Performances ultra-rapides, chargement optimisé, et expérience utilisateur premium.",
+          "imageAlt": "Logo Next.js et icônes de performance web",
+          "color": "blue"
+        },
+        {
+          "title": "SEO Optimisé en Profondeur",
+          "description": "Métadonnées automatiques, sitemap généré, balises JSON-LD, Core Web Vitals optimisés, compatibilité mobile parfaite. Votre site sera visible sur Google.",
+          "imageAlt": "Dashboard d'analytics montrant un excellent référencement SEO",
+          "color": "purple"
+        },
+        {
+          "title": "100% Éditable par Vous",
+          "description": "CMS headless intuitif pour modifier textes, photos, services. Aucune compétence technique requise. Vous restez autonome.",
+          "imageAlt": "Interface utilisateur simple d'un CMS headless pour éditer du contenu",
+          "color": "green"
+        },
+        {
+          "title": "Design Unique et Moderne",
+          "description": "Votre site reflète l'identité de votre entreprise. Design contemporain, adapté à votre secteur, et parfaitement aligné avec votre charte graphique.",
+          "imageAlt": "Exemples de designs modernes et personnalisés de sites web",
+          "color": "orange"
+        }
+      ]
+    },
+    "process": {
+      "badge": "Comment Ça Marche",
+      "title": "Un Processus Simple et Transparent",
+      "subtitle": "De votre idée au site en ligne, en toute sérénité",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Maquette Gratuite",
+          "description": "Je vous réalise gratuitement une première maquette de page pour que vous puissiez vous projeter concrètement."
+        },
+        {
+          "number": "02",
+          "title": "Échange et Cahier des Charges",
+          "description": "Nous discutons de vos besoins, votre identité, vos objectifs. Vous me partagez votre vision et vos contenus."
+        },
+        {
+          "number": "03",
+          "title": "Développement Sur-Mesure",
+          "description": "Je développe votre site avec Next.js, avec contrôle de votre part tout du long. Vous suivez l'avancement et validez chaque étape."
+        },
+        {
+          "number": "04",
+          "title": "Livraison et Formation",
+          "description": "Je livre votre site en ligne, vous forme à l'utilisation du CMS, et reste disponible pour vos questions."
+        }
+      ]
+    },
+    "pricing": {
+      "badge": "Tarif Unique",
+      "title": "800€ Tout Compris",
+      "subtitle": "Transparent, sans surprise, avec tout ce dont vous avez besoin",
+      "priceAmount": "800€",
+      "priceLabel": "Prix fixe, tout inclus",
+      "includedTitle": "Ce qui est inclus :",
+      "includedItems": [
+        "Site sur-mesure avec technologie Next.js",
+        "Design unique adapté à votre identité",
+        "SEO complet (métadonnées, sitemap, JSON-LD, Core Web Vitals)",
+        "CMS headless pour éditer votre contenu facilement",
+        "Compatibilité mobile et performances optimales",
+        "Maquette gratuite avant développement",
+        "Formation à l'utilisation du CMS",
+        "Support après livraison"
+      ],
+      "ctaButton": "Demander ma maquette gratuite",
+      "guarantee": "Satisfaction garantie ou argent remboursé"
+    },
+    "form": {
+      "badge": "Étape 1 : Votre Projet",
+      "title": "Demandez Votre Maquette Gratuite",
+      "subtitle": "Remplissez ce formulaire pour recevoir une première proposition visuelle de votre futur site. C'est gratuit et sans engagement.",
+      "nameLabel": "Votre nom *",
+      "namePlaceholder": "Jean Dupont",
+      "emailLabel": "Votre email *",
+      "emailPlaceholder": "jean@entreprise.fr",
+      "companyLabel": "Nom de votre entreprise *",
+      "companyPlaceholder": "Mon Entreprise SARL",
+      "phoneLabel": "Téléphone (optionnel)",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "projectLabel": "Décrivez votre projet *",
+      "projectPlaceholder": "Ex: Je suis plombier et j'ai besoin d'un site vitrine pour présenter mes services, afficher mes réalisations et permettre aux clients de me contacter facilement...",
+      "inspirationLabel": "URLs d'inspiration (optionnel)",
+      "inspirationPlaceholder": "https://exemple1.com, https://exemple2.com",
+      "colorsLabel": "Couleurs souhaitées (optionnel)",
+      "colorsPlaceholder": "Ex: Bleu marine, blanc, orange",
+      "additionalLabel": "Informations complémentaires (optionnel)",
+      "additionalPlaceholder": "Logo existant, charte graphique, délais souhaités, fonctionnalités spécifiques...",
+      "submitButton": "Envoyer ma demande",
+      "submitting": "Envoi en cours...",
+      "successTitle": "Demande envoyée !",
+      "successMessage": "Merci pour votre confiance. Je reviens vers vous sous 24h avec votre maquette gratuite.",
+      "errorTitle": "Erreur",
+      "errorMessage": "Une erreur est survenue. Veuillez réessayer ou me contacter directement.",
+      "requiredNote": "* Champs obligatoires"
+    },
+    "finalCta": {
+      "badge": "Prêt à Démarrer ?",
+      "title": "Obtenez Votre Maquette Gratuite Dès Aujourd'hui",
+      "subtitle": "Partagez-moi votre projet et recevez une première proposition visuelle pour vous projeter. Sans engagement, sans frais cachés.",
+      "ctaButton": "Obtenir ma maquette gratuite",
+      "trustBadges": [
+        "Livraison sous 2-3 semaines",
+        "2 retouches offertes",
+        "Support après livraison"
+      ]
+    }
+  },
+  "header": {
+    "logo": "WebPro",
+    "logoAlt": "Logo WebPro - Sites vitrines professionnels",
+    "navItems": [
+      { "label": "Fonctionnalités", "href": "#features" },
+      { "label": "Processus", "href": "#process" },
+      { "label": "Tarif", "href": "#pricing" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "ctaButton": "Obtenir ma maquette"
+  },
+  "footer": {
+    "tagline": "WebPro",
+    "description": "Sites vitrines sur-mesure pour professionnels. Technologie Next.js, SEO optimisé, design unique. Votre site professionnel clé en main pour 800€.",
+    "quickLinks": {
+      "title": "Navigation",
+      "items": [
+        { "label": "Fonctionnalités", "href": "#features" },
+        { "label": "Processus", "href": "#process" },
+        { "label": "Tarif", "href": "#pricing" },
+        { "label": "Contact", "href": "#contact" }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "items": [
+        "Développement Next.js",
+        "Optimisation SEO",
+        "Design sur-mesure",
+        "Formation CMS"
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "contact@webpro.fr",
+      "phone": "+33 6 12 34 56 78"
+    },
+    "copyright": "© 2025 WebPro. Tous droits réservés.",
+    "madeWith": "Fait avec"
+  },
+  "seo": {
+    "title": "WebPro - Sites Vitrines Sur-Mesure pour 800€ | Next.js & SEO",
+    "description": "Votre site vitrine professionnel sur-mesure pour 800€. Technologie Next.js, SEO optimisé, design unique, CMS éditable. Maquette gratuite avant développement.",
+    "image": "https://images.unsplash.com/photo-1706700392626-5279fb90ae73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWJzaXRlJTIwZGVzaWduJTIwbGFwdG9wfGVufDF8fHx8MTc2MzY1MTYwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageAlt": "Interface moderne d'un site web professionnel sur ordinateur et mobile"
+  }
+}
