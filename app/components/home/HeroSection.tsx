@@ -111,6 +111,8 @@ export function HeroSection({ content }: HeroSectionProps) {
                 src={content.image.src}
                 alt={content.image.alt}
                 className="w-full h-auto"
+                width={800}
+                height={800}
               />
             </div>
 

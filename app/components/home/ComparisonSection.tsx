@@ -47,6 +47,8 @@ export function ComparisonSection({ content }: ComparisonSectionProps) {
             <div className="absolute inset-0">
               <Image
                 src={content.beforeImage.src}
+                                width={800}
+                height={800}
                 alt={content.beforeImage.alt}
                 className="w-full h-full object-cover"
               />
@@ -69,6 +71,8 @@ export function ComparisonSection({ content }: ComparisonSectionProps) {
               }}
             >
               <Image
+                              width={800}
+                height={800}
                 src={content.afterImage.src}
                 alt={content.afterImage.alt}
                 className="w-full h-full object-cover"
