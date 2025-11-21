@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { Zap, Search, Edit3, Palette } from "lucide-react";
 import type { FeaturesContent } from "@/lib/contentful";
-import { ImageWithFallback } from "@/test/src/components/figma/ImageWithFallback";
 
 const featureIcons = [Zap, Search, Edit3, Palette];
 

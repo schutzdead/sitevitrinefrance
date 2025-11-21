@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import { X, Check } from "lucide-react";
 import type { ComparisonContent } from "@/lib/contentful";
-import { ImageWithFallback } from "@/test/src/components/figma/ImageWithFallback";
+import Image from "next/image";
 
 interface ComparisonSectionProps {
   content: ComparisonContent;
@@ -45,7 +45,7 @@ export function ComparisonSection({ content }: ComparisonSectionProps) {
           <div className="relative h-[400px] md:h-[500px] rounded-2xl overflow-hidden shadow-2xl mb-8">
             {/* Before Image (Background) */}
             <div className="absolute inset-0">
-              <ImageWithFallback
+              <Image
                 src={content.beforeImage.src}
                 alt={content.beforeImage.alt}
                 className="w-full h-full object-cover"
@@ -68,7 +68,7 @@ export function ComparisonSection({ content }: ComparisonSectionProps) {
                 clipPath: `inset(0 ${100 - sliderPosition}% 0 0)`,
               }}
             >
-              <ImageWithFallback
+              <Image
                 src={content.afterImage.src}
                 alt={content.afterImage.alt}
                 className="w-full h-full object-cover"

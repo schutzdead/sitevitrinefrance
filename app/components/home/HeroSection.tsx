@@ -3,8 +3,8 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles } from "lucide-react";
 import type { HeroContent } from "@/lib/contentful";
-import { ImageWithFallback } from "@/test/src/components/figma/ImageWithFallback";
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
 interface HeroSectionProps {
   content: HeroContent;
@@ -107,7 +107,7 @@ export function HeroSection({ content }: HeroSectionProps) {
             className="relative"
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <ImageWithFallback
+              <Image
                 src={content.image.src}
                 alt={content.image.alt}
                 className="w-full h-auto"
