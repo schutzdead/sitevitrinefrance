@@ -1,7 +1,7 @@
 "use server";
 
 import { getHomepageContent } from "@/lib/api";
-import { generatePageMetadata } from "@/app/utils/metadata";
+import { generatePageMetadata } from "../utils/metadata";
 import { HeroSection } from "@/app/components/home/HeroSection";
 import { ComparisonSection } from "@/app/components/home/ComparisonSection";
 import { FeaturesSection } from "@/app/components/home/FeaturesSection";

@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { generateSitemapEntries, formatForNextJs } from "@/app/utils/sitemap";
+import { generateSitemapEntries, formatForNextJs } from "../utils/sitemap";
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://example.com";
 

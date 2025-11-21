@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { standardShowcaseRobots, developmentRobots } from "@/app/utils/robots";
+import { standardShowcaseRobots, developmentRobots } from "../utils/robots"
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://example.com";
 const isProduction = process.env.NODE_ENV === "production";
